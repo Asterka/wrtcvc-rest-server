@@ -1,0 +1,6 @@
+{
+    "rooms":[
+        {"name": "Room1", "id": 0, "users":[{"name":"Askar","id" : 1},{"name":"Sveta","id" : 0}]},
+        {"name": "Room2", "id": 1, "users":[{"name":"Peter","id" : 2},{"name":"Kolya","id" : 4}]}
+    ]
+}

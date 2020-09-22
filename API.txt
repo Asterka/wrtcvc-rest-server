@@ -1,0 +1,2 @@
+/getRooms?id=number: get a list of rooms
+/getRoomUsers?id=number: get a list of users in a particular room
