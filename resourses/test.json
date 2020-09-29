@@ -1,6 +1,4 @@
-{
-    "rooms":[
-        {"name": "Room1", "id": 0, "users":[{"name":"Askar","id" : 1},{"name":"Sveta","id" : 0}]},
-        {"name": "Room2", "id": 1, "users":[{"name":"Peter","id" : 2},{"name":"Kolya","id" : 4}]}
-    ]
-}
+[
+        {"roomName": "Room1", "roomID": 0, "participants":[{"userName":"Askar","userID" : 1},{"userName":"Sveta","userID" : 0}]},
+        {"roomName": "Room2", "roomID": 1, "participants":[{"userName":"Peter","userID" : 2},{"userName":"Kolya","userID" : 4}]}
+]

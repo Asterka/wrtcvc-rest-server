@@ -30,7 +30,7 @@ router.get('/rooms', function(req, res) {
 	}
 	}
 	else{
-		res.end(JSON.stringify(roomInfo.rooms))
+		res.end(JSON.stringify(roomInfo))
 	}
 })
 
